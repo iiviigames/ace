@@ -1,6 +1,10 @@
 Ace (Ajax.org Cloud9 Editor)
 ============================
 
+#### Note to Readers:
+===
+This is merely a fork of the Ace repository located [here.](https://github.com/ajaxorg/ace) I encourage anyone wanting to get the real copy, to obtain it there and not here! I'm prone to be terrible with git, and may break things.
+
 [![Build Status](https://secure.travis-ci.org/ajaxorg/ace.svg?branch=master)](http://travis-ci.org/ajaxorg/ace) [![npm](https://img.shields.io/npm/v/ace-builds.svg)](https://www.npmjs.com/package/ace-builds)
 
 _Note_: The new site at http://ace.c9.io contains all the info below along with an embedding guide and all the other resources you need to get started with Ace.
